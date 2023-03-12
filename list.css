@@ -1,0 +1,32 @@
+body{
+    background-color: white;
+}
+li{
+    padding: 10px;
+    list-style-type: none;
+    font-family: sans-serif;
+    font-size: 16px;
+    border:1px solid transparent;
+}
+.list{
+    height: 20px;
+    width: 300px;
+    background-color: #ffeee6;
+    color: red;
+}
+span{
+    margin-left: 30px;
+}
+li:hover,image:hover{
+    color:red;
+    border:1px solid red;
+    border-left-width: 5px;
+}
+img{
+    height: 20px;
+    width: 20px;
+}
+.list1{
+    height: 20px;
+    width: 300px;
+}
